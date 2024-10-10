@@ -1,11 +1,18 @@
 .container{
-    height: 300px;
+    height: 600px;
     background-color: #cacaca;
     margin: 50px;
     padding: 10px;
     display: flex;
+    /* flex-direction: column; */
     justify-content: center;
-    align-items: flex-end;
+    align-items: center;  
+}
+.logo{
+    display: flex;
+}
+.nav{
+    display: flex;
 }
 .item{
     background-color: aquamarine;
@@ -13,4 +20,10 @@
     padding: 20px;
     border: 2px solid white;
    
+}
+.nav-items{
+    background-color: #46e423;
+    margin: 10px;
+    padding: 20px;
+    border: 2px solid white;
 }

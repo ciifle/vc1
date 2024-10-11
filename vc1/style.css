@@ -69,10 +69,12 @@
     padding: 20px;
     border: 5px solid white;
     height: 368px;
-    width: 250px;
+    width: 240px;
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 30px;
     /* text-align: center; */
 }
+
+/*  */

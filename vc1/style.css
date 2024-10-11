@@ -24,20 +24,55 @@
     background-color: #7fffd4;
     margin: 10px;
     padding: 20px;
-    border: 2px solid white;
+    border: 5px solid white;
    
 }
 .nav-items{
     background-color: #46e423;
     margin: 10px;
     padding: 20px;
-
-    
-    border: 2px solid white;
+    border: 5px solid white;
 }
 .menues{
     background-color: #bf9603;
     margin: 10px;
     padding: 20px;
-    border: 2px solid white;
+    border: 5px solid white;
+}
+.container1{
+    height: 600px;
+    background-color: #cacaca;
+    margin: 50px;
+    padding: 10px;
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    align-items: center;  
+}
+
+.item1{
+    align-self: self-end;
+    justify-content: center;
+}
+.item2{
+    align-self: center;
+
+}
+.item3{
+    align-self: self-end;
+
+}
+.it{
+    background-color: #64f027;
+    margin: 10px;
+    color: #fff;
+    padding: 20px;
+    border: 5px solid white;
+    height: 368px;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    /* text-align: center; */
 }
